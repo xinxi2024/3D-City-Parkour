@@ -1,0 +1,43 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器文件
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vim/
+
+# 依赖目录
+node_modules/
+bower_components/
+
+# 构建文件
+dist/
+build/
+*.min.js
+
+# 日志文件
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 临时文件
+.tmp/
+.temp/
+tmp/
+temp/
+
+# 环境文件
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# 其他
+*.zip
+*.tar.gz
